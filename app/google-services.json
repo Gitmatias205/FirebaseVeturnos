@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224903203798",
+    "project_id": "veturnos-c1e00",
+    "storage_bucket": "veturnos-c1e00.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224903203798:android:45186972d64a6f8734b277",
+        "android_client_info": {
+          "package_name": "com.proyecto.firebaseveturnos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWk7icTzABaO0K5bmjuGYRvxszNah7RJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
